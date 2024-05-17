@@ -1,0 +1,16 @@
+{
+  "packageVersion": "1.0.0",
+  "packageName": "digitalfemsa",
+  "hideGenerationTimestamp": false,
+  "generateInterfaces": true,
+  "disallowAdditionalPropertiesIfNotPresent": false,
+  "gitUserId": "digitalfemsa",
+  "gitRepoId": "digitalfemsa-go",
+  "httpUserAgent": "App/v2 GoBindings/6.0.5",
+  "files": {
+    "/local/CODE_OF_CONDUCT.md" : {},
+    "/local/LICENSE": {}
+  },
+  "templateDir": "/local/templates/go",
+  "useOneOfDiscriminatorLookup": true
+}
